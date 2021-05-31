@@ -1,0 +1,102 @@
+
+body {
+   margin: auto;
+   font-family: Arial;
+}
+
+div#principal {
+    margin: auto;
+    background-color: #00cccc;
+    width: auto;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: solid 1px;
+ }
+div#cabecalho {
+    background-color:rgb(255, 255, 255);
+    width: auto;
+    height: 80px; 
+    margin-top: 0px;    
+    margin-bottom: 5px; 
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    border: dotted 2px #ffff66;
+    
+}
+div#menusuperior {
+    background-color:  #c4f5f5;
+    width: auto;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border: dotted 2px #ffff66;
+    border-radius: 10px;
+}
+div#CONTEUDO {
+    background-color:rgb(202, 214, 214);
+    width: auto;
+    height: 400px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    float: left;
+    border: dotted 2px #ffff66;
+    border-radius: 10px;
+}
+div#banner {
+    background-color: #fafafa;
+    width: auto;
+    height: 400px;
+    float: right;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    border: dotted 2px #ffff66;
+   }
+   div#rodape {
+       background-color:rgb(21, 88, 88);
+       height: 80px;
+       width: auto;
+       margin-left: 5px;
+       margin-top: 5px;
+       clear: both;
+       border-radius: 10px;
+       border: dotted 2px #ffff66;
+   }
+
+   h1#txtconteudo {
+       font-size: 14px;
+       color: blue;
+       background-color: #f0f0e4;
+       width: 1000px;
+       margin-right: 5px;
+       margin-left: 5px;
+       margin-top: 5px;
+       height: 25px;
+       padding-top: 5px;
+       padding-left: 5px;
+       box-shadow: 5px 5px 2px #0d5cbb;
+       border-radius: 10px;
+       border: dotted 2px #ffff66;
+      }
+      
+      h2#txtbanner{
+          font-size: 14px;
+          color:#ffffff;
+          background-color: blue;
+          width:215px;
+          margin-left: 5px;
+          margin-top:5px;
+          height: 25px;
+          padding-top: 5px;
+          padding-left: 5px;
+          border: dotted 1px #000000;
+          box-shadow:  5px 5px 2px #cccccc;
+          border-radius: 10px;   
+          border: dotted 2px #ffff66; 
+              
+      }
